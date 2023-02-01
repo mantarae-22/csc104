@@ -1,0 +1,10 @@
+/* These are external styles*/
+body{
+    background-image: url("water.jpg");
+    background-size: 800px 800px;
+}
+
+p {
+    background-color:rgb(6, 48, 6);
+    color: lightgray;
+}
